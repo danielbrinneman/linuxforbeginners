@@ -1,2 +1,2 @@
 # linuxforbeginners
-A pointing website
+A pointing informational website

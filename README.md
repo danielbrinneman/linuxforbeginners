@@ -12,4 +12,6 @@ Coming from Microsoft Windows and looking for a stable desktop with support for 
 * [284 Days Later: My Linux Journey So Far](https://youtu.be/IMlxRYQhjmE){:target="_blank"}
 
 
+[Buy me a tea or sandwich, please](https://www.paypal.com/paypalme/danielbrinneman){:target="_blank"}.
+
 This page is under construction. August 2026

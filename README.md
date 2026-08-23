@@ -32,8 +32,7 @@
 1. Bazzite - https://bazzite.gg/
 2. Nobara - https://nobaraproject.org/
 
-
-## “Switched to Linux” Videos:
+## “Switched to Linux” Videos
 * [I FULLY Switched to Linux... but will I stay?](https://www.youtube.com/watch?v=GHi0jYZPiyM){:target="_blank"}
 * [Linux on a Dell Optiplex (Pop OS)](https://youtu.be/l6UHK66Kxmk){:target="_blank"}
 * [284 Days Later: My Linux Journey So Far](https://youtu.be/IMlxRYQhjmE){:target="_blank"}

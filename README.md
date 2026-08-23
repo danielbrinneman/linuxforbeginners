@@ -28,7 +28,7 @@
 1. Asahi Linux (silicon macbook) - https://asahilinux.org/fedora/
 2. Linux Mint (intel macbook) - https://linuxmint.com
 3. Fedora Workstation using Gnome - https://fedoraproject.org/workstation/
-4. Omarchy (uses keyboard shortcuts to navigate) - https://omarchy.org/
+4. Omarchy (uses keyboard shortcuts to navigate) - https://omarchy.org/ 
 
 ## Gaming specific
 1. Bazzite - https://bazzite.gg/

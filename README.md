@@ -5,8 +5,8 @@
 * Empty 32 GB USB stick
 * Linux distro ISO
 * Balena Etcher to burn the ISO to the USB stick so it is bootable.
-* Back up all your computer's data to an external hard drive before proceeding.
-* The keyboard key to spam to get into your computer's Boot menu or BIOS to change the boot order.
+* Back up all your computer's data to an external unencrypted drive before proceeding.
+* The keyboard key to repeatedly push to get into your computer’s Boot menu or BIOS to change the boot order.
 
 ## Minimum hardware to run slimmer distros such as XFCE or Puppy Linux
 * 2 GB RAM
@@ -21,12 +21,14 @@
 ## Coming from Microsoft Windows
 1. **[Linux Mint](https://linuxmint.com/){:target="_blank"}** - Looking for a stable desktop with support for NVIDIA drivers, a Windows 7 layout, gets out of your way, LibreOffice pre-installed, IRC chat for support, and customizable. May need an Ethernet cable to install Wi-Fi drivers. Terminal isn't required to use. Then try [Linux Mint Cinnamon](https://linuxmint.com/edition.php?id=326){:target="_blank"}. Here is the [Linux Mint Cinnamon Installation Guide](https://linuxmint-installation-guide.readthedocs.io/en/latest/){:target="_blank"}.
 2. **[Zorin OS](https://zorin.com/){:target="_blank"}** - Looking for a stable desktop with a Windows 10 layout, customizable, and providing alternative Linux programs when you try to install Windows applications. Use Zorin OS Core and install your own programs or support the developers of Zorin OS with Zorin OS Pro that comes with pre-installed programs, Brave by default, and built-in tech support. Here is the [Zorin OS Installation Guide](https://help.zorin.com/docs/getting-started/install-zorin-os/){:target="_blank"}.
+3. Fedora KDE Plasma Desktop — https://fedoraproject.org/kde/
+4. Debian - https://www.debian.org/
 
 ## Coming from Apple macOS
-1. Asahi Linux (silicon macbook)
-2. Linux Mint (intel macbook)
-3. Fedora Workstation using Gnome
-4. Omarchy (uses keyboard shortcuts to navigate)
+1. Asahi Linux (silicon macbook) - https://asahilinux.org/fedora/
+2. Linux Mint (intel macbook) - https://linuxmint.com
+3. Fedora Workstation using Gnome - https://fedoraproject.org/workstation/
+4. Omarchy (uses keyboard shortcuts to navigate) - https://omarchy.org/
 
 ## Gaming specific
 1. Bazzite - https://bazzite.gg/

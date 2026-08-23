@@ -1,7 +1,7 @@
 # Linux for beginners
 [Buy me a tea or sandwich, please](https://www.paypal.com/paypalme/danielbrinneman){:target="_blank"}. Thank you in advance.
 
-## What you need:
+## What you need
 * Empty 32 GB USB stick
 * Linux distro ISO
 * Balena Etcher to burn the ISO to the USB stick so it is bootable.

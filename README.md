@@ -25,7 +25,7 @@
 4. Debian - https://www.debian.org/
 
 ## Coming from Apple macOS
-1. Asahi Linux (silicon macbook) - https://asahilinux.org/fedora/
+1. Fedora Asahi Remix (silicon macbook) - https://asahilinux.org/fedora/
 2. Linux Mint (intel macbook) - https://linuxmint.com
 3. Fedora Workstation using Gnome - https://fedoraproject.org/workstation/
 4. Omarchy (uses keyboard shortcuts to navigate) - https://omarchy.org/ 

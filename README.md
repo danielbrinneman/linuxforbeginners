@@ -1,7 +1,3 @@
----
-title: Linux for beginners
----
-
 # Linux for beginners
 [Buy me a tea or sandwich, please](https://www.paypal.com/paypalme/danielbrinneman){:target="_blank"}. Thank you in advance.
 

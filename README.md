@@ -34,6 +34,37 @@
 1. Bazzite - https://bazzite.gg/
 2. Nobara - https://nobaraproject.org/
 
+## Gaming software support
+1. SteamOS - https://store.steampowered.com/about/
+2. ProtonDB - https://www.protondb.com/
+3. Lutris - https://lutris.net/
+4. Heroic Games Launcher - https://heroicgameslauncher.com/ (mentioned on https://www.gog.com/forum/general/how_to_run_gog_games_on_linux/post2)
+5. Bottles - https://usebottles.com/
+6. GOG Galaxy - https://www.gog.com/galaxy (coming soon to Linux)
+
+## Windows software on Linux
+1. WinBoat - https://winboat.app/
+2. Bottles - https://usebottles.com/
+3. WineHQ - https://www.winehq.org/
+
+## Creative software on Linux
+1. Affinity by Canva - https://github.com/ryzendew/Linux-Affinity-Installer (rumored coming soon to Linux)
+2. DaVinci Resolve or DaVinci Resolve Studio supports Rocky Linux but can run as a DEB package with required dedicated GPU not integrated (some codecs not supported may need script to run file conversion - https://www.danieltufvesson.com/makeresolvedeb
+3. Kdenlive - https://kdenlive.org/
+4. OpenShot video editor - https://www.openshot.org/
+5. Shotcut - https://www.shotcut.org/
+
+## Office Suites on Linux
+1. LibreOffice - https://www.libreoffice.org/
+2. OnlyOffice (Word and PowerPoint compatible when working together) - https://www.onlyoffice.com/download-desktop
+3. Kingsoft WPS Office - https://www.wps.com/
+4. KDE Calligra Office Suite - https://calligra.org/
+5. Collabora Office for Desktop - https://www.collaboraonline.com/collabora-office/
+6. Google Docs (online) - https://workspace.google.com/products/docs/
+7. Zoho Office Suite (online) - https://www.zoho.com/officesuite/
+8. iCloud Office Suite (online, if enabled on your Apple device) - https://icloud.com
+9. Proton Drive (online, limited) - https://proton.me/drive
+
 ## “Switched to Linux” Videos
 * [I FULLY Switched to Linux... but will I stay?](https://www.youtube.com/watch?v=GHi0jYZPiyM){:target="_blank"}
 * [Linux on a Dell Optiplex (Pop OS)](https://youtu.be/l6UHK66Kxmk){:target="_blank"}

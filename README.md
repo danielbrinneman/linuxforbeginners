@@ -1,6 +1,5 @@
 ---
 title: Linux for beginners
-layout: default
 ---
 
 # Linux for beginners

@@ -8,7 +8,7 @@
 * Back up all your computer's data to an external hard drive before proceeding.
 * The keyboard key to spam to get into your computer's Boot menu or BIOS to change the boot order.
 
-## Minimum hardware needed to run slimmer Linux desktop distros such as XFCE or Puppy Linux
+## Minimum hardware needed to run slimmer distros such as XFCE or Puppy Linux
 * 2 GB RAM
 * 128 GB HDD or SSD
 * 20 year old CPU or newer

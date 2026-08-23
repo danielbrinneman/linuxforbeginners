@@ -1,5 +1,5 @@
 # Linux for beginners
-[Buy me a tea or sandwich, please](https://www.paypal.com/paypalme/danielbrinneman){:target="_blank"}. Thank you in advance.
+[Buy me a tea or sandwich](https://www.paypal.com/paypalme/danielbrinneman){:target="_blank"}, please. Thank you very much.
 
 ## What you need
 * Empty 32 GB USB stick

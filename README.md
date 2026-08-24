@@ -67,7 +67,50 @@
 10. Microsoft Office (online, free/365) - https://word.cloud.microsoft/
 
 ## “Switched to Linux” Videos
-*
+* [I SWITCHED TO LINUX!  (Here’s an update after 100 Days on Linux)](https://www.youtube.com/watch?v=oJH2EY3oPk0){:target=“_blank”} - The creator reflects on switching from macOS to Linux Mint as his daily desktop driver after more than 100 days. He discusses overcoming hardware compatibility issues, escaping subscription software ecosystems, adapting creative tools, and offers practical advice for newcomers considering making the transition.
+  - Duration in minutes: 21 minutes
+
+* [How and why I switched to Linux](https://www.youtube.com/watch?v=HL1XavoNqsM){:target=“_blank”} - The presenter shares his experience moving from Windows 11 to Linux Mint, highlighting benefits like privacy, customization, and background stability. He explains how he set up open-source alternatives and gaming compatibility layers while noting minor hurdles regarding specialized hardware drivers.
+  - Duration in minutes: 12 minutes
+
+* [I Switched From Windows to Linux – It Only Took Me 20 Years (Including Davinci Resolve Setup)](https://www.youtube.com/watch?v=oAY3DcXgBrQ){:target=“_blank”} - The host documents his complete migration from Windows to Linux Mint on his primary video editing workstation. He details trying multiple distributions before configuring Da Vinci Resolve, managing dependencies with scripts, and setting up system lighting controls.
+  - Duration in minutes: 16 minutes
+
+* [A New Life for a 14 Year Old iMac (Upgraded Hard Drive & RAM & Running Linux)](https://www.youtube.com/watch?v=C-ZULQ6LfeE){:target=“_blank”} - The video follows the restoration and upgrade process of a free 2011 iMac that failed to reinstall macOS. The host expands its RAM, installs a SATA SSD, and configures Linux Mint xfce to create a fully functional desktop computer.
+  - Duration in minutes: 54 minutes
+
+* [Linux Makes Computers Fun Again](https://www.youtube.com/watch?v=txDWrurpeLY){:target=“_blank”} - The creator explains his transition from Windows 11 to Linux distros due to bloatware, privacy concerns, and restrictive customization options. Through comedy skits and desktop demonstrations, he highlights KDE Plasma customization, Wine compatibility, and open-source software alternatives.
+  - Duration in minutes: 18 minutes
+
+* [New to Linux? Start Here!](https://www.youtube.com/watch?v=Uo5sH8Bhi4c){:target=“_blank”} - This tutorial guides beginners through core Linux operating system concepts and initial setup procedures. It demonstrates creating bootable installation media, testing live ISO environments, installing Linux Mint Cinnamon, and managing Flatpak applications.
+  - Duration in minutes: 23 minutes
+
+* [Upgrading to Linux Instead of Windows 11](https://www.youtube.com/watch?v=P4RXUxO8q70){:target=“_blank”} - The host discusses choosing Debian 13 over upgrading his hardware for Windows 11 compliance. He details setting up KDE Plasma, configuring NVIDIA drivers, and avoiding ongoing subscription software fees.
+  - Duration in minutes: 17 minutes
+
+* [Don't Upgrade To Windows 11!](https://www.youtube.com/watch?v=Hwf-N49oN_Q){:target=“_blank”} - The creator outlines reasons to avoid upgrading to Windows 11 ahead of the Windows 10 end-of-support deadline. He introduces beginner-friendly Linux alternatives like Linux Mint, Zorin OS, and Ubuntu as solutions to maintain existing computer hardware.
+  - Duration in minutes: 11 minutes
+
+* [My App Workflow After Leaving macOS for Linux](https://www.youtube.com/watch?v=zi8McEZCo20){:target=“_blank”} - The presenter walks through his personal app configuration and daily desktop workflow after switching from macOS to EndeavourOS running GNOME. He reviews tools like Kdenlive, Da Vinci Resolve, Bitwarden, LocalSend, and custom desktop extensions.
+  - Duration in minutes: 15 minutes
+
+* [Switching to Linux Supercharged My Workflow](https://www.youtube.com/watch?v=KUVeuzDrmAU){:target=“_blank”} - The host shares a specialized automation workflow he developed on Linux for editing and uploading YouTube content. He demonstrates using FFmpeg terminal scripts and OpenAI Whisper to extract audio, generate transcripts, and prepare video metadata.
+  - Duration in minutes: 9 minutes
+
+* [Switching from Apple to Linux: A Refreshing Change](https://www.youtube.com/watch?v=16YCMe5zDog){:target=“_blank”} - The creator outlines his experience transitioning from the Apple ecosystem to Ubuntu Linux on a budget Dell desktop. He praises the restored sense of ownership and user freedom while noting the initial package management learning curve.
+  - Duration in minutes: 4 minutes
+
+* [Trying Linux as a Lifetime Apple User](https://www.youtube.com/watch?v=l6w-dU11qRA){:target=“_blank”} - A long-time Mac user demonstrates testing Linux Mint Cinnamon on a Lenovo ThinkPad T480 via a Ventoy USB drive. He shares his positive impressions of pre-installed applications, ease of setup, and user-friendly desktop design.
+  - Duration in minutes: 13 minutes
+
+* [Trying Linux for the First Time After 21 Years on Windows](https://www.youtube.com/watch?f7MWr2afy3s){:target=“_blank”} - The creator documents trying Ubuntu Linux inside a virtual machine after spending 21 years exclusively on Windows. He evaluates desktop UI design, workspace multitasking, terminal commands, and system resource efficiency.
+  - Duration in minutes: 10 minutes
+
+* [The Linux Setup I Actually Use Every Day](https://www.youtube.com/watch?v=F3j_1AEQkHk){:target=“_blank”} - The presenter outlines how to configure a practical Linux workstation using a budget mini PC and a KVM switch alongside a main Mac or Windows PC. He details using OMARI Linux, Hyprland tiling window managers, custom keyboard shortcuts, and dotfiles.
+  - Duration in minutes: 17 minutes
+
+* [284 Days Later: My Linux Journey So Far](https://www.youtube.com/watch?v=IMlxRYQhjmE){:target=“_blank”} - The host reflects on his multi-year journey exploring various Linux distributions, moving from Ubuntu and Linux Mint to CachyOS. He explains distribution features, gaming compatibility through Proton, desktop customization, and software alternatives.
+  - Duration in minutes: 29 minutes
 
 ## Advanced Videos
 * [Linux on a Dell Optiplex (Pop OS)](https://youtu.be/l6UHK66Kxmk?si=gT4b1Z9Pd3I83aiY){:target=“_blank”} - The creator documents downloading Pop!_OS and installing it onto a Dell Optiplex desktop using a flash drive created with Balena Etcher. Despite minor black screen delays during setup, they demonstrate smooth web browsing, document creation, local network media streaming, and functional gaming performance via Steam and PSP emulation.

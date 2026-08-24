@@ -33,8 +33,9 @@
 4. [Omarchy (uses keyboard shortcuts to navigate)](https://omarchy.org/){:target="_blank"}
 
 ## Gaming focused distros
-1. [Bazzite](https://bazzite.gg/){:target="_blank"}
+1. [CachyOS](https://cachyos.org/){:target=“_blank}
 2. [Nobara](https://nobaraproject.org/){:target="_blank"}
+3. [Bazzite](https://bazzite.gg/){:target="_blank"}
 
 ## Gaming software support
 1. [SteamOS](https://store.steampowered.com/about/){:target="_blank"}

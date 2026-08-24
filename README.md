@@ -58,7 +58,7 @@
 
 ## Office software on Linux
 1. [LibreOffice](https://www.libreoffice.org/){:target="_blank"}
-2. [OnlyOffice (Word and PowerPoint compatible when working together)](https://www.onlyoffice.com/download-desktop){:target="_blank"}
+2. [OnlyOffice (Word and PowerPoint structurally compatible when working together)](https://www.onlyoffice.com/download-desktop){:target="_blank"}
 3. [Kingsoft WPS Office](https://www.wps.com/){:target="_blank"}
 4. [KDE Calligra Office Suite](https://calligra.org/){:target="_blank"}
 5. [Collabora Office for Desktop](https://www.collaboraonline.com/collabora-office/){:target="_blank"}

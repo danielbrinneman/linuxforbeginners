@@ -67,6 +67,9 @@
 10. Microsoft Office (online, free/365) - https://word.cloud.microsoft/
 
 ## “Switched to Linux” Videos
+*
+
+## Advanced Videos
 * [Linux on a Dell Optiplex (Pop OS)](https://youtu.be/l6UHK66Kxmk?si=gT4b1Z9Pd3I83aiY){:target=“_blank”} - The creator documents downloading Pop!_OS and installing it onto a Dell Optiplex desktop using a flash drive created with Balena Etcher. Despite minor black screen delays during setup, they demonstrate smooth web browsing, document creation, local network media streaming, and functional gaming performance via Steam and PSP emulation.
   - Duration in minutes: 12 minutes
 

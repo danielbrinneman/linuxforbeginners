@@ -48,23 +48,23 @@
 3. WineHQ - https://www.winehq.org/
 
 ## Creative software on Linux
-1. Affinity by Canva - https://github.com/ryzendew/Linux-Affinity-Installer (rumored coming soon to Linux)
-2. DaVinci Resolve or DaVinci Resolve Studio supports Rocky Linux but can run as a DEB package with required dedicated GPU not integrated (some codecs not supported may need script to run file conversion - https://www.danieltufvesson.com/makeresolvedeb
-3. Kdenlive - https://kdenlive.org/
-4. OpenShot video editor - https://www.openshot.org/
-5. Shotcut - https://www.shotcut.org/
+1. [Affinity by Canva](https://github.com/ryzendew/Linux-Affinity-Installer){target="_blank"} (rumored coming soon to Linux)
+2. DaVinci Resolve or DaVinci Resolve Studio supports Rocky Linux but can run as a DEB package with required dedicated GPU not integrated (some codecs not supported may need script to run file conversion - [https://www.danieltufvesson.com/makeresolvedeb](https://www.danieltufvesson.com/makeresolvedeb){target="_blank"}
+3. [Kdenlive](https://kdenlive.org/){target="_blank"}
+4. [OpenShot video editor](https://www.openshot.org/){target="_blank"}
+5. [Shotcut](https://www.shotcut.org/){target="_blank"}
 
 ## Office software on Linux
-1. LibreOffice - https://www.libreoffice.org/
-2. OnlyOffice (Word and PowerPoint compatible when working together) - https://www.onlyoffice.com/download-desktop
-3. Kingsoft WPS Office - https://www.wps.com/
-4. KDE Calligra Office Suite - https://calligra.org/
-5. Collabora Office for Desktop - https://www.collaboraonline.com/collabora-office/
-6. Google Docs (online) - https://workspace.google.com/products/docs/
-7. Zoho Office Suite (online) - https://www.zoho.com/officesuite/
-8. iCloud Office Suite (online, if enabled on your Apple device) - https://icloud.com
-9. Proton Drive (online, limited) - https://proton.me/drive
-10. Microsoft Office (online, free/365) - https://word.cloud.microsoft/
+1. [LibreOffice](https://www.libreoffice.org/){target="_blank"}
+2. [OnlyOffice (Word and PowerPoint compatible when working together)](https://www.onlyoffice.com/download-desktop){target="_blank"}
+3. [Kingsoft WPS Office](https://www.wps.com/){target="_blank"}
+4. [KDE Calligra Office Suite](https://calligra.org/){target="_blank"}
+5. [Collabora Office for Desktop](https://www.collaboraonline.com/collabora-office/){target="_blank"}
+6. [Google Docs (online)](https://workspace.google.com/products/docs/){target="_blank"}
+7. [Zoho Office Suite (online)](https://www.zoho.com/officesuite/){target="_blank"}
+8. [iCloud Office Suite (online, if enabled on your Apple device)](https://icloud.com){target="_blank"}
+9. [Proton Drive (online, limited)](https://proton.me/drive){target="_blank"}
+10. [Microsoft Office (online, free/365)](https://word.cloud.microsoft/){target="_blank"}
 
 ## “Switched to Linux” Videos
 * [I SWITCHED TO LINUX!  (Here’s an update after 100 Days on Linux)](https://www.youtube.com/watch?v=oJH2EY3oPk0){:target=“_blank”} - The creator reflects on switching from macOS to Linux Mint as his daily desktop driver after more than 100 days. He discusses overcoming hardware compatibility issues, escaping subscription software ecosystems, adapting creative tools, and offers practical advice for newcomers considering making the transition.

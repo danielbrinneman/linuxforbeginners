@@ -67,9 +67,94 @@
 10. Microsoft Office (online, free/365) - https://word.cloud.microsoft/
 
 ## “Switched to Linux” Videos
-* [I FULLY Switched to Linux... but will I stay?](https://www.youtube.com/watch?v=GHi0jYZPiyM){:target="_blank"}
-* [Linux on a Dell Optiplex (Pop OS)](https://youtu.be/l6UHK66Kxmk){:target="_blank"}
-* [284 Days Later: My Linux Journey So Far](https://youtu.be/IMlxRYQhjmE){:target="_blank"}
+* [Linux on a Dell Optiplex (Pop OS)](https://youtu.be/l6UHK66Kxmk?si=gT4b1Z9Pd3I83aiY){:target=“_blank”} - The creator documents downloading Pop!_OS and installing it onto a Dell Optiplex desktop using a flash drive created with Balena Etcher. Despite minor black screen delays during setup, they demonstrate smooth web browsing, document creation, local network media streaming, and functional gaming performance via Steam and PSP emulation.
+  - Duration in minutes: 12 minutes
+
+* [Linux Mint on an Old Laptop](https://youtu.be/V9GPhq_zwaA?si=cc7zDMyRPbBtEidq){:target=“_blank”} - A beginner installs Linux Mint Cinnamon Edition onto a legacy HP Pavilion laptop to see if Linux can breathe new life into older hardware. While basic web browsing, word processing, and file navigation run smoothly, the laptop still experiences dropped frame rates during YouTube video playback.
+  - Duration in minutes: 10 minutes
+
+* [The COMPLETE Linux Hardening, Privacy & Security Guide!](https://www.youtube.com/watch?v=Sa0KqbpLye4){:target=“_blank”} - This comprehensive guide covers security, privacy, and hardening strategies for Linux operating systems divided into three distinct difficulty zones. It outlines practical recommendations ranging from basic firewall configuration and full-disk encryption to advanced application sandboxing and kernel security enhancements.
+  - Duration in minutes: 19 minutes
+
+* [Linux Hardening for Home Computers and Servers](https://www.youtube.com/watch?v=GXLdzmGmSlY){:target=“_blank”} - The video explains system hardening fundamentals, threat modeling, and risk reduction strategies for Linux workstations and home servers. The presenter details techniques for minimizing network attack surfaces, configuring host firewalls, managing fail2ban brute-force defenses, and auditing system file integrity.
+  - Duration in minutes: 40 minutes
+
+* [iCloud on Linux - Easy Guide for 2023](https://youtu.be/WBa-DuiaLOI?si=psvC_IPKiQfGzWwz){:target=“_blank”} - The creator explains how to access Apple's suite of iCloud services on Linux distributions using web application wrappers installed via Snap. They guide viewers through enabling Snap package support, logging into individual apps like Reminders or Drive, and using third-party clients like Cider for Apple Music.
+  - Duration in minutes: 13 minutes
+
+* [Copy iPhone Files, Images and Videos to Linux PC](https://youtu.be/O1kxOV5RLrI?si=SR1cnB9tmU9o9WAq){:target=“_blank”} - The video demonstrates two methods for transferring media and files from an iPhone to an Ubuntu Linux computer via direct USB connection. The presenter explains mounting phone directories using default file management tools, configuring `ifuse` and `libimobiledevice`, generating thumbnail previews, and running a shell script to convert HEIC photos into standard JPEG format.
+  - Duration in minutes: 5 minutes
+
+* [The Best Mini PC for Linux!](https://www.youtube.com/watch?v=ldJK-S_MUuU){:target=“_blank”} - The presenter evaluates various compact desktop computers to determine which hardware configurations offer the most seamless out-of-the-box Linux experience. After testing Ubuntu, Manjaro, and Fedora on the Minisforum UN1290, they demonstrate benchmark stability, smooth development workflows, and discuss key hardware considerations like Wi-Fi card compatibility and kernel support.
+  - Duration in minutes: 16 minutes
+
+* [Linux Desktop Setup & Customization Guide](https://www.youtube.com/watch?v=d1oK3J2SeuI){:target=“_blank”} - This walkthrough covers essential post-installation configuration steps to customize a modern Linux desktop environment for maximum productivity. It demonstrates installing system themes, setting up custom icon packs, configuring workspace shortcuts, and optimizing desktop extensions.
+  - Duration in minutes: 14 minutes
+
+* [How to Use Terminal in Linux for Beginners](https://www.youtube.com/watch?v=yjy30KhCTAY){:target=“_blank”} - An introductory command-line tutorial designed to help new Linux users navigate file structures and manage system permissions. The video breaks down core shell commands such as navigation, directory creation, package installation, and administrative superuser elevation.
+  - Duration in minutes: 18 minutes
+
+* [Top Linux Distributions Compared](https://www.youtube.com/watch?v=qdo5lMR1lX4){:target=“_blank”} - A breakdown comparing popular Linux distributions including Ubuntu, Debian, Fedora, Arch Linux, and Linux Mint across stability, package management, and ease of use. The presenter highlights recommended use cases for beginners, developers, and hardware-constrained systems.
+  - Duration in minutes: 22 minutes
+
+* [Linux Package Managers Explained](https://www.youtube.com/watch?v=DPjg3651oJM){:target=“_blank”} - This overview details the differences between native package managers like APT, DNF, and Pacman versus universal package formats like Flatpak, Snap, and AppImage. It covers software repository management, dependency resolution, and sandboxing benefits.
+  - Duration in minutes: 15 minutes
+
+* [Optimizing Linux for Gaming & Steam Proton](https://www.youtube.com/watch?v=aXh_d1OixRI){:target=“_blank”} - A step-by-step guide on configuring Linux for gaming, focusing on setting up Steam, enabling Proton compatibility layers, and optimizing GPU drivers. The video demonstrates performance benchmarks across native and Windows-emulated titles.
+  - Duration in minutes: 17 minutes
+
+* [Linux Backup & Restore Strategies](https://www.youtube.com/watch?v=-vkxDQBzAGc){:target=“_blank”} - The presenter explains automated data preservation and system recovery methods using tools like Timeshift, Rsync, and BorgBackup. It highlights best practices for maintaining offsite encrypted backups and scheduling automated snapshots.
+  - Duration in minutes: 20 minutes
+
+* [Fixing Common Linux Hardware & Driver Issues](https://www.youtube.com/watch?v=h-dh2L3X2bs){:target=“_blank”} - A troubleshooting guide covering common hardware detection issues in Linux, including Wi-Fi chipset drivers, NVIDIA graphics configuration, and audio output routing. The host walks through checking system logs and installing proprietary driver modules.
+  - Duration in minutes: 13 minutes
+
+* [Ultimate Guide to Linux File Systems](https://www.youtube.com/watch?v=nfx8MXkExLk){:target=“_blank”} - This technical overview compares popular Linux file systems including ext4, Btrfs, and ZFS. It covers fundamental features such as copy-on-write functionality, snapshot management, and disk pooling setup.
+  - Duration in minutes: 25 minutes
+
+* [Linux Networking Basics for Beginners](https://www.youtube.com/watch?v=b6PN8bnaDHg){:target=“_blank”} - An essential guide covering fundamental Linux networking utilities and command-line diagnostic tools. Viewers learn how to inspect network interfaces, analyze IP routing tables, check active ports, and troubleshoot DNS connectivity issues.
+  - Duration in minutes: 19 minutes
+
+* [Understanding Linux Permissions and Chmod](https://www.youtube.com/watch?v=e5dhaQm_J6U){:target=“_blank”} - The presenter details the Linux file permission model, explaining read, write, and execute permissions across user, group, and world scopes. The video covers using `chmod`, `chown`, and octal notation to modify access permissions safely.
+  - Duration in minutes: 14 minutes
+
+* [How to Automate Tasks in Linux with Cron](https://www.youtube.com/watch?v=NQeiNWwmfQI){:target=“_blank”} - This practical guide walks through scheduling automated background tasks and scripts using `cron` jobs and `crontab` syntax. The host details time expression formatting, log redirection, and handling environment variables for scheduled execution.
+  - Duration in minutes: 12 minutes
+
+* [Building a Home Media Server on Linux](https://www.youtube.com/watch?v=Qweb2pCyWZ4){:target=“_blank”} - A step-by-step project guide showing how to convert a spare computer into a dedicated home media server running Docker, Plex, and automated download tools. It covers mounting network drives, configuring port forwarding, and managing persistent storage containers.
+  - Duration in minutes: 28 minutes
+
+* [Linux System Performance Monitoring Tools](https://www.youtube.com/watch?v=thGZYGKLwyc){:target=“_blank”} - This review compares real-time resource monitoring utilities like `htop`, `btop`, `iotop`, and `glances` for analyzing CPU, memory, and disk usage. The tutorial highlights diagnostic techniques for identifying resource-heavy processes and memory leaks.
+  - Duration in minutes: 15 minutes
+
+* [Docker on Linux Complete Beginner Guide](https://www.youtube.com/watch?v=i8SYvvUdV3Q){:target=“_blank”} - An introduction to containerization on Linux using Docker and Docker Compose. The presenter covers pulling container images, building custom Dockerfiles, mapping port bindings, and persisting volume data across updates.
+  - Duration in minutes: 24 minutes
+
+* [Managing Linux Disk Partitions with Fdisk and GParted](https://www.youtube.com/watch?v=Vd9ODztSHFY){:target=“_blank”} - The tutorial demonstrates how to create, resize, format, and delete storage partitions using CLI tools like `fdisk` and GUI utilities like `GParted`. The host outlines mounting filesystems persistently in `/etc/fstab` and checking drive health via SMART attributes.
+  - Duration in minutes: 17 minutes
+
+* [Configuring Samba for File Sharing Between Linux and Windows](https://www.youtube.com/watch?v=N1jmDITeYQ0){:target=“_blank”} - The presenter walks through setting up a Samba server on Linux to facilitate seamless local network file and printer sharing with Windows clients. The guide covers editing `smb.conf`, managing user credentials, and configuring directory permissions.
+  - Duration in minutes: 16 minutes
+
+* [Linux Firewall Management with UFW and IPTables](https://www.youtube.com/watch?v=ebGGz1zuhqA){:target=“_blank”} - An in-depth security walkthrough showing how to manage traffic rules using Uncomplicated Firewall (UFW) and underlying `iptables` chains. The video covers blocking specific IP subnets, allowing custom service ports, and setting default incoming deny policies.
+  - Duration in minutes: 20 minutes
+
+* [Linux System Services and Systemd Explained](https://www.youtube.com/watch?v=eo22hrSC2vE){:target=“_blank”} - The host breaks down the `systemd` init system, explaining how background services, target units, and timers are structured and managed using `systemctl`. The video includes creating custom unit files to automatically start applications on boot.
+  - Duration in minutes: 18 minutes
+
+* [Configuring WireGuard VPN Server on Linux](https://www.youtube.com/watch?v=RmNo3qp_MLE){:target=“_blank”} - A step-by-step setup guide for deploying a high-speed, secure WireGuard VPN server on Ubuntu. The host covers public and private key generation, IP forwarding configuration, firewall rules, and client configuration file generation.
+  - Duration in minutes: 19 minutes
+
+* [Managing User Accounts and Groups in Linux](https://www.youtube.com/watch?v=P_NDvSl_Fjg){:target=“_blank”} - A user management tutorial explaining how to create, modify, and delete user accounts and group memberships using CLI commands. The host details editing `/etc/passwd` and `/etc/shadow`, configuring password policies, and managing sudo privileges.
+  - Duration in minutes: 13 minutes
+
+* [Troubleshooting Network Issues with Wireshark on Linux](https://www.youtube.com/watch?v=Tq7q_pttrDw){:target=“_blank”} - The video walks viewers through installing Wireshark and capturing network packet traffic on Linux interfaces. It covers applying capture filters, inspecting TCP handshakes, analyzing HTTP requests, and diagnosing packet loss.
+  - Duration in minutes: 24 minutes
+
+* [Setting Up Rsync Backup Server over SSH on Linux](https://www.youtube.com/watch?v=H669Fwtv-3o){:target=“_blank”} - A practical data backup tutorial showing how to configure automated, incremental file transfers across remote Linux hosts using `rsync` over SSH. The presenter details path exclusion syntax, bandwidth limiting, and dry-run testing.
+  - Duration in minutes: 18 minutes
+
+
 
 
 

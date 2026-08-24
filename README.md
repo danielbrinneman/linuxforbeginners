@@ -53,7 +53,7 @@
 1. [Affinity by Canva](https://github.com/ryzendew/Linux-Affinity-Installer){:target="_blank"} (rumored coming soon to Linux)
 2. DaVinci Resolve or DaVinci Resolve Studio supports Rocky Linux but can run as a DEB package with required dedicated GPU not integrated (some codecs not supported may need script to run file conversion - [https://www.danieltufvesson.com/makeresolvedeb](https://www.danieltufvesson.com/makeresolvedeb){:target="_blank"}
 3. [Kdenlive](https://kdenlive.org/){:target="_blank"}
-4. [OpenShot video editor](https://www.openshot.org/){:target="_blank"}
+4. [OpenShot](https://www.openshot.org/){:target="_blank"}
 5. [Shotcut](https://www.shotcut.org/){:target="_blank"}
 
 ## Office software on Linux

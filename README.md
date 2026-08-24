@@ -18,7 +18,7 @@
 ## Recommended minimum hardware for best experience
 * 8 GB RAM
 * 256 GB or larger SSD
-* Latest CPU and GPU
+* Latest CPU and GPU (not integrated for use with DaVinci Resolve)
 
 ## Coming from Microsoft Windows
 1. **[Linux Mint](https://linuxmint.com/){:target="_blank"}** - Looking for a stable desktop with support for NVIDIA drivers, a Windows 7 layout, gets out of your way, LibreOffice pre-installed, IRC chat for support, and customizable. May need an Ethernet cable to install Wi-Fi drivers. Terminal isn't required to use. Then try [Linux Mint Cinnamon](https://linuxmint.com/edition.php?id=326){:target="_blank"}. Here is the [Linux Mint Cinnamon Installation Guide](https://linuxmint-installation-guide.readthedocs.io/en/latest/){:target="_blank"}.

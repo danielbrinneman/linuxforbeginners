@@ -23,8 +23,8 @@
 ## Coming from Microsoft Windows
 1. **[Linux Mint](https://linuxmint.com/){:target="_blank"}** - Looking for a stable desktop with support for NVIDIA drivers, a Windows 7 layout, gets out of your way, LibreOffice pre-installed, IRC chat for support, and customizable. May need an Ethernet cable to install Wi-Fi drivers. Terminal isn't required to use. Then try [Linux Mint Cinnamon](https://linuxmint.com/edition.php?id=326){:target="_blank"}. Here is the [Linux Mint Cinnamon Installation Guide](https://linuxmint-installation-guide.readthedocs.io/en/latest/){:target="_blank"}.
 2. **[Zorin OS](https://zorin.com/){:target="_blank"}** - Looking for a stable desktop with a Windows 10 layout, customizable, and providing alternative Linux programs when you try to install Windows applications. Use Zorin OS Core and install your own programs or support the developers of Zorin OS with Zorin OS Pro that comes with pre-installed programs, Brave by default, and built-in tech support. Here is the [Zorin OS Installation Guide](https://help.zorin.com/docs/getting-started/install-zorin-os/){:target="_blank"}.
-3. Fedora KDE Plasma Desktop — https://fedoraproject.org/kde/
-4. Debian - https://www.debian.org/
+3. [Fedora KDE Plasma Desktop](https://fedoraproject.org/kde/){:target="_blank"}
+4. [Debian](https://www.debian.org/){:target="_blank"}
 
 ## Coming from Apple macOS
 1. [Fedora Asahi Remix (silicon macbook)](https://asahilinux.org/fedora/){:target="_blank"}

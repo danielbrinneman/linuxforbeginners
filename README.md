@@ -1,5 +1,5 @@
 # Linux for beginners
-[Buy me a tea or sandwich](https://www.paypal.com/paypalme/danielbrinneman){:target="_blank"}, please. Thank you very much.
+[Buy me a tea or gluten-free sandwich](https://www.paypal.com/paypalme/danielbrinneman){:target="_blank"}, please. Thank you very much.
 
 <hr />
 

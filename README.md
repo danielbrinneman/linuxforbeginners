@@ -1,6 +1,8 @@
 # Linux for beginners
 [Buy me a tea or sandwich](https://www.paypal.com/paypalme/danielbrinneman){:target="_blank"}, please. Thank you very much.
 
+<hr />
+
 ## What you need
 * Empty 32 GB USB stick
 * Linux distro ISO
@@ -25,46 +27,46 @@
 4. Debian - https://www.debian.org/
 
 ## Coming from Apple macOS
-1. Fedora Asahi Remix (silicon macbook) - https://asahilinux.org/fedora/
-2. Linux Mint (intel macbook) - https://linuxmint.com
-3. Fedora Workstation using Gnome - https://fedoraproject.org/workstation/
-4. Omarchy (uses keyboard shortcuts to navigate) - https://omarchy.org/ 
+1. [Fedora Asahi Remix (silicon macbook)](https://asahilinux.org/fedora/){:target="_blank"}
+2. [Linux Mint (intel macbook)](https://linuxmint.com){:target="_blank"}
+3. [Fedora Workstation using Gnome](https://fedoraproject.org/workstation/){:target="_blank"}
+4. [Omarchy (uses keyboard shortcuts to navigate)](https://omarchy.org/){:target="_blank"}
 
 ## Gaming focused distros
-1. Bazzite - https://bazzite.gg/
-2. Nobara - https://nobaraproject.org/
+1. [Bazzite](https://bazzite.gg/){:target="_blank"}
+2. [Nobara](https://nobaraproject.org/){:target="_blank"}
 
 ## Gaming software support
-1. SteamOS - https://store.steampowered.com/about/
-2. ProtonDB - https://www.protondb.com/
-3. Lutris - https://lutris.net/
-4. Heroic Games Launcher - https://heroicgameslauncher.com/ (mentioned on https://www.gog.com/forum/general/how_to_run_gog_games_on_linux/post2)
-5. Bottles - https://usebottles.com/
-6. GOG Galaxy - https://www.gog.com/galaxy (coming soon to Linux)
+1. [SteamOS](https://store.steampowered.com/about/){:target="_blank"}
+2. [ProtonDB](https://www.protondb.com/){:target="_blank"}
+3. [Lutris](https://lutris.net/){:target="_blank"}
+4. [Heroic Games Launcher](https://heroicgameslauncher.com/){:target="_blank"} (mentioned on [https://www.gog.com/forum/general/how_to_run_gog_games_on_linux/post2](https://www.gog.com/forum/general/how_to_run_gog_games_on_linux/post2){:target="_blank"})
+5. [Bottles](https://usebottles.com/){:target="_blank"}
+6. [GOG Galaxy](https://www.gog.com/galaxy){:target="_blank"} (coming soon to Linux)
 
 ## Windows software on Linux
-1. WinBoat - https://winboat.app/
-2. Bottles - https://usebottles.com/
-3. WineHQ - https://www.winehq.org/
+1. [WinBoat](https://winboat.app/){:target="_blank"}
+2. [Bottles](https://usebottles.com/){:target="_blank"}
+3. [WineHQ](https://www.winehq.org/){:target="_blank"}
 
 ## Creative software on Linux
-1. [Affinity by Canva](https://github.com/ryzendew/Linux-Affinity-Installer){target="_blank"} (rumored coming soon to Linux)
-2. DaVinci Resolve or DaVinci Resolve Studio supports Rocky Linux but can run as a DEB package with required dedicated GPU not integrated (some codecs not supported may need script to run file conversion - [https://www.danieltufvesson.com/makeresolvedeb](https://www.danieltufvesson.com/makeresolvedeb){target="_blank"}
-3. [Kdenlive](https://kdenlive.org/){target="_blank"}
-4. [OpenShot video editor](https://www.openshot.org/){target="_blank"}
-5. [Shotcut](https://www.shotcut.org/){target="_blank"}
+1. [Affinity by Canva](https://github.com/ryzendew/Linux-Affinity-Installer){:target="_blank"} (rumored coming soon to Linux)
+2. DaVinci Resolve or DaVinci Resolve Studio supports Rocky Linux but can run as a DEB package with required dedicated GPU not integrated (some codecs not supported may need script to run file conversion - [https://www.danieltufvesson.com/makeresolvedeb](https://www.danieltufvesson.com/makeresolvedeb){:target="_blank"}
+3. [Kdenlive](https://kdenlive.org/){:target="_blank"}
+4. [OpenShot video editor](https://www.openshot.org/){:target="_blank"}
+5. [Shotcut](https://www.shotcut.org/){:target="_blank"}
 
 ## Office software on Linux
-1. [LibreOffice](https://www.libreoffice.org/){target="_blank"}
-2. [OnlyOffice (Word and PowerPoint compatible when working together)](https://www.onlyoffice.com/download-desktop){target="_blank"}
-3. [Kingsoft WPS Office](https://www.wps.com/){target="_blank"}
-4. [KDE Calligra Office Suite](https://calligra.org/){target="_blank"}
-5. [Collabora Office for Desktop](https://www.collaboraonline.com/collabora-office/){target="_blank"}
-6. [Google Docs (online)](https://workspace.google.com/products/docs/){target="_blank"}
-7. [Zoho Office Suite (online)](https://www.zoho.com/officesuite/){target="_blank"}
-8. [iCloud Office Suite (online, if enabled on your Apple device)](https://icloud.com){target="_blank"}
-9. [Proton Drive (online, limited)](https://proton.me/drive){target="_blank"}
-10. [Microsoft Office (online, free/365)](https://word.cloud.microsoft/){target="_blank"}
+1. [LibreOffice](https://www.libreoffice.org/){:target="_blank"}
+2. [OnlyOffice (Word and PowerPoint compatible when working together)](https://www.onlyoffice.com/download-desktop){:target="_blank"}
+3. [Kingsoft WPS Office](https://www.wps.com/){:target="_blank"}
+4. [KDE Calligra Office Suite](https://calligra.org/){:target="_blank"}
+5. [Collabora Office for Desktop](https://www.collaboraonline.com/collabora-office/){:target="_blank"}
+6. [Google Docs (online)](https://workspace.google.com/products/docs/){:target="_blank"}
+7. [Zoho Office Suite (online)](https://www.zoho.com/officesuite/){:target="_blank"}
+8. [iCloud Office Suite (online, if enabled on your Apple device)](https://icloud.com){:target="_blank"}
+9. [Proton Drive (online, limited)](https://proton.me/drive){:target="_blank"}
+10. [Microsoft Office (online, free/365)](https://word.cloud.microsoft/){:target="_blank"}
 
 ## “Switched to Linux” Videos
 * [I SWITCHED TO LINUX!  (Here’s an update after 100 Days on Linux)](https://www.youtube.com/watch?v=oJH2EY3oPk0){:target=“_blank”} - The creator reflects on switching from macOS to Linux Mint as his daily desktop driver after more than 100 days. He discusses overcoming hardware compatibility issues, escaping subscription software ecosystems, adapting creative tools, and offers practical advice for newcomers considering making the transition.

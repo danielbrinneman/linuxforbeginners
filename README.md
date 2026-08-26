@@ -55,11 +55,12 @@
 1. [Affinity by Canva](https://github.com/ryzendew/Linux-Affinity-Installer){:target="_blank"} (rumored coming soon to Linux)
 2. [VivaDesigner](https://viva.systems/designer/){:target="_blank"}
 3. Inkscape - https://inkscape.org/
-4. Photopea (online) - https://www.photopea.com/
-5. Vectorpea (online beta) - https://www.vectorpea.com/
-6. darktable - https://www.darktable.org/
-7. RapidRAW - https://www.getrapidraw.com/
-8. Gimp - https://www.gimp.org/
+4. Scribus - https://www.scribus.net/
+5. Photopea (online) - https://www.photopea.com/
+6. Vectorpea (online beta) - https://www.vectorpea.com/
+7. darktable - https://www.darktable.org/
+8. RapidRAW - https://www.getrapidraw.com/
+9. Gimp - https://www.gimp.org/
 
 ## Video editing software on Linux
 1. DaVinci Resolve or DaVinci Resolve Studio supports Rocky Linux but can run as a DEB package with required dedicated GPU not integrated (some codecs not supported may need script to run file conversion - [https://www.danieltufvesson.com/makeresolvedeb](https://www.danieltufvesson.com/makeresolvedeb){:target="_blank"}

@@ -45,6 +45,7 @@
 4. [Heroic Games Launcher](https://heroicgameslauncher.com/){:target="_blank"} (mentioned on [https://www.gog.com/forum/general/how_to_run_gog_games_on_linux/post2](https://www.gog.com/forum/general/how_to_run_gog_games_on_linux/post2){:target="_blank"})
 5. [Bottles](https://usebottles.com/){:target="_blank"}
 6. [GOG Galaxy](https://www.gog.com/galaxy){:target="_blank"} (coming soon to Linux)
+7. [Faugus](https://flathub.org/en/apps/io.github.Faugus.faugus-launcher){:target="_blank"} - “A simple, lightweight, and modern game manager for Linux designed as an alternative to Lutris and Heroic, specifically optimized for running Windows games via UMU-Launcher. Amazon Games support, GOG Galaxy launcher integration, and improved gamepad navigation. It allows users to manage prefixes, run pre/post-launch scripts, and easily add games from Steam, Epic Games, or Battle.net without requiring the native Windows launchers.” (Brave AI) “Battlenet, EA, Epic Games, Ubisoft Connect” ([Threads: benedekzoli90](https://www.threads.com/share/KgRWXym9z/){:target="_blank"})
 
 ## Windows software on Linux
 1. [WinBoat](https://winboat.app/){:target="_blank"}

@@ -73,18 +73,18 @@
 4. [Shotcut](https://www.shotcut.org/){:target="_blank"}
 
 ## Accounting software on Linux
-1. GnuCash (free) https://www.gnucash.org/ - GnuCash is personal and small-business financial-accounting software.
-2. indiAccounting (paid) https://indomitusgroup.com/indiaccounting - A complete desktop accounting platform for freelancers, contractors, and small businesses — now with official IRS payroll tax forms. Your financial data never leaves your computer.
-3. indiBudget (free) https://indomitusgroup.com/indibudget - Budgeting, smart categorization, subscription tracking, and bank sync — all running locally on your machine. No cloud account, no tracking, no subscription. Free and open source.
+1. [GnuCash](https://www.gnucash.org/){:target="_blank"} (free) - GnuCash is personal and small-business financial-accounting software.
+2. [indiAccounting](https://indomitusgroup.com/indiaccounting){:target="_blank"} (paid) - A complete desktop accounting platform for freelancers, contractors, and small businesses — now with official IRS payroll tax forms. Your financial data never leaves your computer.
+3. [indiBudget](https://indomitusgroup.com/indibudget){:target="_blank"} (free) - Budgeting, smart categorization, subscription tracking, and bank sync — all running locally on your machine. No cloud account, no tracking, no subscription. Free and open source.
 
 ## PDF editor on Linux
 1. PDF editor built into OnlyOffice suite
 2. LibreOffice Draw possibly edits PDFs
-3. indiPDF (paid) https://indomitusgroup.com/indipdf
+3. [indiPDF](https://indomitusgroup.com/indipdf){:target="_blank"} (paid)
 
 ## Transfer tools on Linux
-1. KDE Connect - https://kdeconnect.kde.org/
-2. LocalSend - https://localsend.org/
+1. [KDE Connect](ttps://kdeconnect.kde.org/){:target="_blank"}
+2. [LocalSend](https://localsend.org/){:target="_blank"}
 
 ## Office software on Linux
 1. [LibreOffice](https://www.libreoffice.org/){:target="_blank"}

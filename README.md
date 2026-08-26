@@ -9,6 +9,7 @@
 * Balena Etcher to burn the ISO to the USB stick so it is bootable.
 * Back up all your computer's data to an external unencrypted drive before proceeding.
 * The keyboard key to repeatedly push to get into your computer’s Boot menu or BIOS to change the boot order.
+* Disable Secure Boot
 
 ## Minimum hardware to run slimmer distros such as XFCE or Puppy Linux
 * 2 GB RAM
@@ -52,10 +53,28 @@
 
 ## Creative software on Linux
 1. [Affinity by Canva](https://github.com/ryzendew/Linux-Affinity-Installer){:target="_blank"} (rumored coming soon to Linux)
-2. DaVinci Resolve or DaVinci Resolve Studio supports Rocky Linux but can run as a DEB package with required dedicated GPU not integrated (some codecs not supported may need script to run file conversion - [https://www.danieltufvesson.com/makeresolvedeb](https://www.danieltufvesson.com/makeresolvedeb){:target="_blank"}
-3. [Kdenlive](https://kdenlive.org/){:target="_blank"}
-4. [OpenShot](https://www.openshot.org/){:target="_blank"}
-5. [Shotcut](https://www.shotcut.org/){:target="_blank"}
+2. [VivaDesigner](https://viva.systems/designer/){:target="_blank"}
+3. Photopea (online) - https://www.photopea.com/
+4. Vectorpea (online beta) - https://www.vectorpea.com/
+5. darktable - https://www.darktable.org/
+6. RapidRAW - https://www.getrapidraw.com/
+7. Gimp - https://www.gimp.org/
+
+## Video editing software on Linux
+1. DaVinci Resolve or DaVinci Resolve Studio supports Rocky Linux but can run as a DEB package with required dedicated GPU not integrated (some codecs not supported may need script to run file conversion - [https://www.danieltufvesson.com/makeresolvedeb](https://www.danieltufvesson.com/makeresolvedeb){:target="_blank"}
+2. [Kdenlive](https://kdenlive.org/){:target="_blank"}
+3. [OpenShot](https://www.openshot.org/){:target="_blank"}
+4. [Shotcut](https://www.shotcut.org/){:target="_blank"}
+
+## Accounting software on Linux
+1. GnuCash (free) https://www.gnucash.org/ - GnuCash is personal and small-business financial-accounting software.
+2. indiAccounting (paid) https://indomitusgroup.com/indiaccounting - A complete desktop accounting platform for freelancers, contractors, and small businesses — now with official IRS payroll tax forms. Your financial data never leaves your computer.
+3. indiBudget (free) https://indomitusgroup.com/indibudget - Budgeting, smart categorization, subscription tracking, and bank sync — all running locally on your machine. No cloud account, no tracking, no subscription. Free and open source.
+
+## PDF editor on Linux
+1. PDF editor built into OnlyOffice suite
+2. LibreOffice Draw possibly edits PDFs
+3. indiPDF (paid) https://indomitusgroup.com/indipdf
 
 ## Office software on Linux
 1. [LibreOffice](https://www.libreoffice.org/){:target="_blank"}

@@ -10,7 +10,7 @@ A starter guide for beginners switching to Linux. [Buy me a tea or gluten-free s
 * Back up all your computer's data to an external unencrypted drive before proceeding.
 * The keyboard key to repeatedly push to get into your computer’s Boot menu or BIOS to change the boot order.
 * Disable Secure Boot in BIOS
-* Choose third-party media codecs when asked during installation
+* Choose third-party media codecs when asked during installation (depends on distro chosen)
 
 ## Minimum hardware to run slimmer distros such as XFCE or Puppy Linux
 * 2 GB RAM

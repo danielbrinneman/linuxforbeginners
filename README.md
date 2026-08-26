@@ -1,15 +1,15 @@
 # Linux for beginners
-[Buy me a tea or gluten-free sandwich](https://www.paypal.com/paypalme/danielbrinneman){:target="_blank"}, please. Thank you very much.
+A starter guide for beginners switching to Linux. [Buy me a tea or gluten-free sandwich](https://www.paypal.com/paypalme/danielbrinneman){:target="_blank"}, please. Thank you very much.
 
 <hr />
 
 ## What you need
 * Empty 32 GB USB stick
 * Linux distro ISO
-* Balena Etcher to burn the ISO to the USB stick so it is bootable.
+* [Balena Etcher](https://etcher.balena.io/){:target="_blank"} to burn the ISO to the USB stick so it is bootable.
 * Back up all your computer's data to an external unencrypted drive before proceeding.
 * The keyboard key to repeatedly push to get into your computer’s Boot menu or BIOS to change the boot order.
-* Disable Secure Boot
+* Disable Secure Boot in BIOS
 
 ## Minimum hardware to run slimmer distros such as XFCE or Puppy Linux
 * 2 GB RAM

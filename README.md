@@ -78,6 +78,10 @@
 2. LibreOffice Draw possibly edits PDFs
 3. indiPDF (paid) https://indomitusgroup.com/indipdf
 
+## Transfer tools on Linux
+1. KDE Connect - https://kdeconnect.kde.org/
+2. LocalSend - https://localsend.org/
+
 ## Office software on Linux
 1. [LibreOffice](https://www.libreoffice.org/){:target="_blank"}
 2. [OnlyOffice (Word and PowerPoint structurally compatible when working together)](https://www.onlyoffice.com/download-desktop){:target="_blank"}

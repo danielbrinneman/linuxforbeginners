@@ -81,8 +81,9 @@ A starter guide for beginners switching to Linux. [Buy me a tea or gluten-free s
 
 ## PDF editor on Linux
 1. PDF editor built into OnlyOffice suite
-2. LibreOffice Draw possibly edits PDFs
-3. [indiPDF](https://indomitusgroup.com/indipdf){:target="_blank"} (paid)
+2. [Master PDF Editor](https://flathub.org/en/apps/net.code_industry.MasterPDFEditor){:target="_blank"}
+3. LibreOffice Draw possibly edits PDFs
+4. [indiPDF](https://indomitusgroup.com/indipdf){:target="_blank"} (paid)
 
 ## Transfer tools on Linux
 1. [KDE Connect](ttps://kdeconnect.kde.org/){:target="_blank"}

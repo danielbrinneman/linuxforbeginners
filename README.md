@@ -40,16 +40,17 @@ A starter guide for beginners switching to Linux. [Buy me a tea or gluten-free s
 3. [Bazzite](https://bazzite.gg/){:target="_blank"}
 
 ## Gaming software support
-1. [SteamOS](https://store.steampowered.com/about/){:target="_blank"}
-2. [ProtonDB](https://www.protondb.com/){:target="_blank"}
-3. [Lutris](https://lutris.net/){:target="_blank"}
-4. [Heroic Games Launcher](https://heroicgameslauncher.com/){:target="_blank"} (mentioned on [https://www.gog.com/forum/general/how_to_run_gog_games_on_linux/post2](https://www.gog.com/forum/general/how_to_run_gog_games_on_linux/post2){:target="_blank"}) - GOG support
-5. [Bottles](https://usebottles.com/){:target="_blank"}
-6. [GOG Galaxy](https://www.gog.com/galaxy){:target="_blank"} (coming soon to Linux)
-7. [Faugus](https://flathub.org/en/apps/io.github.Faugus.faugus-launcher){:target="_blank"} - “A simple, lightweight, and modern game manager for Linux designed as an alternative to Lutris and Heroic, specifically optimized for running Windows games via UMU-Launcher. Amazon Games support, GOG Galaxy launcher integration, and improved gamepad navigation. It allows users to manage prefixes, run pre/post-launch scripts, and easily add games from Steam, Epic Games, or Battle.net without requiring the native Windows launchers.” (Brave AI) “Battlenet, EA, Epic Games, Ubisoft Connect” ([Threads: benedekzoli90](https://www.threads.com/share/KgRWXym9z/){:target="_blank"})
-8. [PPSSPP](https://flathub.org/en/apps/org.ppsspp.PPSSPP){:target="_blank"} - PPSSPP is a PSP emulator that can run games in full HD resolution. It can even upscale textures that would otherwise be too blurry as they were made for the small screen of the original PSP.
-9. [PCSX2](https://flathub.org/en/apps/net.pcsx2.PCSX2){:target="_blank"} - PCSX2 is a free and open-source PlayStation 2 (PS2) emulator. Its purpose is to emulate the PS2's hardware, using a combination of MIPS CPU Interpreters, Recompilers, and a Virtual Machine which manages hardware states and PS2 system memory. This allows you to play PS2 games on your PC, with many additional features and benefits.
-10. [Search Flathub for “game launcher”](https://flathub.org/en/apps/search?q=game%20launcher){:target="_blank"}
+1. [Open Gaming Collective](https://opengamingcollective.org/){:target="_blank"} - The Open Gaming Collective (OGC) is building a unified set of gaming-focused components used across the Linux ecosystem. Open Gaming Collective (OGC) is a working group for organizations and individuals interested in improving the open source gaming ecosystem. The mission is to provide a collaborative framework for upstream changes to the various gaming components that will benefit all projects.
+2. [SteamOS](https://store.steampowered.com/about/){:target="_blank"}
+3. [ProtonDB](https://www.protondb.com/){:target="_blank"}
+4. [Lutris](https://lutris.net/){:target="_blank"}
+5. [Heroic Games Launcher](https://heroicgameslauncher.com/){:target="_blank"} (mentioned on [https://www.gog.com/forum/general/how_to_run_gog_games_on_linux/post2](https://www.gog.com/forum/general/how_to_run_gog_games_on_linux/post2){:target="_blank"}) - GOG support
+6. [Bottles](https://usebottles.com/){:target="_blank"}
+7. [GOG Galaxy](https://www.gog.com/galaxy){:target="_blank"} (coming soon to Linux)
+8. [Faugus](https://flathub.org/en/apps/io.github.Faugus.faugus-launcher){:target="_blank"} - “A simple, lightweight, and modern game manager for Linux designed as an alternative to Lutris and Heroic, specifically optimized for running Windows games via UMU-Launcher. Amazon Games support, GOG Galaxy launcher integration, and improved gamepad navigation. It allows users to manage prefixes, run pre/post-launch scripts, and easily add games from Steam, Epic Games, or Battle.net without requiring the native Windows launchers.” (Brave AI) “Battlenet, EA, Epic Games, Ubisoft Connect” ([Threads: benedekzoli90](https://www.threads.com/share/KgRWXym9z/){:target="_blank"})
+9. [PPSSPP](https://flathub.org/en/apps/org.ppsspp.PPSSPP){:target="_blank"} - PPSSPP is a PSP emulator that can run games in full HD resolution. It can even upscale textures that would otherwise be too blurry as they were made for the small screen of the original PSP.
+10. [PCSX2](https://flathub.org/en/apps/net.pcsx2.PCSX2){:target="_blank"} - PCSX2 is a free and open-source PlayStation 2 (PS2) emulator. Its purpose is to emulate the PS2's hardware, using a combination of MIPS CPU Interpreters, Recompilers, and a Virtual Machine which manages hardware states and PS2 system memory. This allows you to play PS2 games on your PC, with many additional features and benefits.
+11. [Search Flathub for “game launcher”](https://flathub.org/en/apps/search?q=game%20launcher){:target="_blank"}
 
 ## Windows software on Linux
 1. [WinBoat](https://winboat.app/){:target="_blank"}

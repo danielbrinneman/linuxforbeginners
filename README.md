@@ -105,9 +105,10 @@ A starter guide for beginners switching to Linux. [Buy me a tea or gluten-free s
 ## DAWs on Linux
 1. [Ardour](https://flathub.org/en/apps/org.ardour.Ardour){:target="_blank"}
 2. [Bitwig Studio](https://flathub.org/en/apps/com.bitwig.BitwigStudio){:target="_blank"}
-3. [DAW Project Manager](https://flathub.org/en/apps/com.bandpassrecords.dpm){:target="_blank"}
-4. [Pipewire - built-in to most distros](https://pipewire.org/){:target="_blank"}
-5. [qpwgraph](https://flathub.org/en/apps/org.rncbc.qpwgraph){:target="_blank"} - qpwgraph is a graph manager dedicated to PipeWire.
+3. [Reaper](https://www.reaper.fm/){:target="_blank"}
+4. [DAW Project Manager](https://flathub.org/en/apps/com.bandpassrecords.dpm){:target="_blank"}
+5. [Pipewire - built-in to most distros](https://pipewire.org/){:target="_blank"}
+6. [qpwgraph](https://flathub.org/en/apps/org.rncbc.qpwgraph){:target="_blank"} - qpwgraph is a graph manager dedicated to PipeWire.
 
 ## “Switched to Linux” Videos
 * [I SWITCHED TO LINUX!  (Here’s an update after 100 Days on Linux)](https://www.youtube.com/watch?v=oJH2EY3oPk0){:target=“_blank”} - The creator reflects on switching from macOS to Linux Mint as his daily desktop driver after more than 100 days. He discusses overcoming hardware compatibility issues, escaping subscription software ecosystems, adapting creative tools, and offers practical advice for newcomers considering making the transition.

@@ -23,7 +23,7 @@ A starter guide for beginners switching to Linux. [Buy me a tea or gluten-free s
 * Latest CPU and GPU (not integrated for use with DaVinci Resolve)
 
 ## Workflows on Linux
-1. [Arnold Bosman](https://substack.com/@bosmana63/posts){:target="_blank"} has written a series of posts about his move from away from big tech: Google Workspace to Proton, Adobe to Affinity, Windows to Ubuntu, and Microsoft Office to OnlyOffice and Nextcloud.
+1. [Arnold Bosman](https://substack.com/@bosmana63/posts){:target="_blank"} has written a series of posts about his move away from big tech: Google Workspace to Proton, Adobe to Affinity, Windows to Ubuntu, and Microsoft Office to OnlyOffice and Nextcloud.
    1. [Why I’m Reducing my Dependence on Big Tech](https://substack.com/inbox/post/185622261){:target="_blank"}
    2. [How I’ve Left Google After 20 Years](https://bosmana63.substack.com/p/how-ive-left-google-after-20-years){:target="_blank"}
    3. [How I escaped Adobe's grip — and kept my creative workflow intact](https://bosmana63.substack.com/p/how-i-escaped-adobes-grip-and-kept){:target="_blank"}

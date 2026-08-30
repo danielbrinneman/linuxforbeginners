@@ -22,6 +22,13 @@ A starter guide for beginners switching to Linux. [Buy me a tea or gluten-free s
 * 256 GB or larger SSD
 * Latest CPU and GPU (not integrated for use with DaVinci Resolve)
 
+## Workflows on Linux
+1. [Arnold Bosman](https://substack.com/@bosmana63/posts){:target="_blank"} has written a series of posts about his move from away from big tech, Google Workspace to Proton, Adobe to Affinity, Windows to Ubuntu, and Microsoft Office to OnlyOffice and Nextcloud.
+   a. [Why I’m Reducing my Dependence on Big Tech](https://substack.com/inbox/post/185622261){:target="_blank"}
+   b. [How I’ve Left Google After 20 Years](https://bosmana63.substack.com/p/how-ive-left-google-after-20-years){:target="_blank"}
+   c. [How I escaped Adobe's grip — and kept my creative workflow intact](https://bosmana63.substack.com/p/how-i-escaped-adobes-grip-and-kept){:target="_blank"}
+   d. [How I replaced Microsoft Windows and Office in a single day](https://bosmana63.substack.com/p/how-i-replaced-microsoft-windows){:target="_blank"}
+
 ## Coming from Microsoft Windows
 1. **[Linux Mint](https://linuxmint.com/){:target="_blank"}** - Looking for a stable desktop with support for NVIDIA drivers, a Windows 7 layout, gets out of your way, LibreOffice pre-installed, IRC chat for support, and customizable. May need an Ethernet cable to install Wi-Fi drivers. Terminal isn't required to use. Then try [Linux Mint Cinnamon](https://linuxmint.com/edition.php?id=326){:target="_blank"}. Here is the [Linux Mint Cinnamon Installation Guide](https://linuxmint-installation-guide.readthedocs.io/en/latest/){:target="_blank"}.
 2. **[Zorin OS](https://zorin.com/){:target="_blank"}** - Looking for a stable desktop with a Windows 10 layout, customizable, and providing alternative Linux programs when you try to install Windows applications. Use Zorin OS Core and install your own programs or support the developers of Zorin OS with Zorin OS Pro that comes with pre-installed programs, Brave by default, and built-in tech support. Here is the [Zorin OS Installation Guide](https://help.zorin.com/docs/getting-started/install-zorin-os/){:target="_blank"}.
@@ -41,7 +48,7 @@ A starter guide for beginners switching to Linux. [Buy me a tea or gluten-free s
 
 ## Gaming software support
 1. [Open Gaming Collective](https://opengamingcollective.org/){:target="_blank"} - The Open Gaming Collective (OGC) is building a unified set of gaming-focused components used across the Linux ecosystem. Open Gaming Collective (OGC) is a working group for organizations and individuals interested in improving the open source gaming ecosystem. The mission is to provide a collaborative framework for upstream changes to the various gaming components that will benefit all projects.
-2. [SteamOS](https://store.steampowered.com/about/){:target="_blank"}
+2. [SteamOS](https://store.steampowered.com/about/){:target="_blank"} - Enable compatibility in game settings for most games to work well.
 3. [ProtonDB](https://www.protondb.com/){:target="_blank"}
 4. [Lutris](https://lutris.net/){:target="_blank"}
 5. [Heroic Games Launcher](https://heroicgameslauncher.com/){:target="_blank"} (mentioned on [https://www.gog.com/forum/general/how_to_run_gog_games_on_linux/post2](https://www.gog.com/forum/general/how_to_run_gog_games_on_linux/post2){:target="_blank"}) - GOG support

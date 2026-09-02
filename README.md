@@ -57,7 +57,8 @@ A starter guide for beginners switching to Linux. [Buy me a tea or gluten-free s
 8. [Faugus](https://flathub.org/en/apps/io.github.Faugus.faugus-launcher){:target="_blank"} - “A simple, lightweight, and modern game manager for Linux designed as an alternative to Lutris and Heroic, specifically optimized for running Windows games via UMU-Launcher. Amazon Games support, GOG Galaxy launcher integration, and improved gamepad navigation. It allows users to manage prefixes, run pre/post-launch scripts, and easily add games from Steam, Epic Games, or Battle.net without requiring the native Windows launchers.” (Brave AI) “Battlenet, EA, Epic Games, Ubisoft Connect” ([Threads: benedekzoli90](https://www.threads.com/share/KgRWXym9z/){:target="_blank"})
 9. [PPSSPP](https://flathub.org/en/apps/org.ppsspp.PPSSPP){:target="_blank"} - PPSSPP is a PSP emulator that can run games in full HD resolution. It can even upscale textures that would otherwise be too blurry as they were made for the small screen of the original PSP.
 10. [PCSX2](https://flathub.org/en/apps/net.pcsx2.PCSX2){:target="_blank"} - PCSX2 is a free and open-source PlayStation 2 (PS2) emulator. Its purpose is to emulate the PS2's hardware, using a combination of MIPS CPU Interpreters, Recompilers, and a Virtual Machine which manages hardware states and PS2 system memory. This allows you to play PS2 games on your PC, with many additional features and benefits.
-11. [Search Flathub for “game launcher”](https://flathub.org/en/apps/search?q=game%20launcher){:target="_blank"}
+11. [Prism Launcher](https://prismlauncher.org/){:target="_blank"} - Minecraft
+12. [Search Flathub for “game launcher”](https://flathub.org/en/apps/search?q=game%20launcher){:target="_blank"}
 
 ## Windows software on Linux
 1. [WinBoat](https://winboat.app/){:target="_blank"}

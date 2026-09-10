@@ -40,6 +40,7 @@ A starter guide for beginners switching to Linux. [Buy me a tea or gluten-free s
 2. [Linux Mint (intel macbook)](https://linuxmint.com){:target="_blank"}
 3. [Fedora Workstation using Gnome](https://fedoraproject.org/workstation/){:target="_blank"}
 4. [Omarchy (uses keyboard shortcuts to navigate)](https://omarchy.org/){:target="_blank"}
+5. [T2 Linux](https://t2linux.org/){:target="_blank"}
 
 ## Gaming focused distros
 1. [CachyOS](https://cachyos.org/){:target=“_blank}

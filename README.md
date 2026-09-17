@@ -76,6 +76,7 @@ A starter guide for beginners switching to Linux. [Buy me a tea or gluten-free s
 7. [darktable](https://www.darktable.org/){:target="_blank"}
 8. [RapidRAW](https://www.getrapidraw.com/){:target="_blank"}
 9. [Gimp](https://www.gimp.org/){:target="_blank"}
+10. [FreeShow - A ProPresenter alternative with CCLI support](https://freeshow.app/){:target="_blank"}
 
 ## Video editing software on Linux
 1. DaVinci Resolve or DaVinci Resolve Studio supports Rocky Linux but can run as a DEB package with required dedicated GPU not integrated (some codecs not supported may need script to run file conversion - [https://www.danieltufvesson.com/makeresolvedeb](https://www.danieltufvesson.com/makeresolvedeb){:target="_blank"}

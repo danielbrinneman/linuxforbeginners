@@ -30,6 +30,7 @@ A starter guide for beginners switching to Linux. [Buy me a tea or gluten-free s
    4. [How I replaced Microsoft Windows and Office in a single day](https://bosmana63.substack.com/p/how-i-replaced-microsoft-windows){:target="_blank"}
 2. [Paul](https://nodiceleftbehind.substack.com/p/one-year-on-linux-my-experiences){:target="_blank"} writes about his one-year experience of switching from Windows to Linux Mint Cinnamon.
 3. [Gareth Witty](https://myjourneyintomentalism.substack.com/p/zorin-os-a-personal-review){:target="_blank"} writes a personal review about his move from Windows to Zorin OS.
+4. [Sash Mohapatra](https://riftdispatch.substack.com/p/48-hours-with-omarchy-my-first-linux){:target="_blank"} writes his about his 48 hours with Omarchy, his first linux experience.
    
 
 ## Coming from Microsoft Windows

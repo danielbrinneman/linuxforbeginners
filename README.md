@@ -39,7 +39,7 @@ A starter guide for beginners switching to Linux. [Buy me a tea or gluten-free s
 1. [Fedora Asahi Remix (silicon macbook)](https://asahilinux.org/fedora/){:target="_blank"}
 2. [Linux Mint (intel macbook)](https://linuxmint.com){:target="_blank"}
 3. [Fedora Workstation using Gnome](https://fedoraproject.org/workstation/){:target="_blank"}
-4. [Omarchy (uses keyboard shortcuts to navigate)](https://omarchy.org/){:target="_blank"}
+4. [Omarchy (uses keyboard shortcuts to navigate)](https://omarchy.org/){:target="_blank"} and [themed design tools](https://www.omatools.org/){:target="_blank"} created by Claude AI by NoSignal.uk released late September 2026.
 5. [T2 Linux](https://t2linux.org/){:target="_blank"}
 
 ## Gaming focused distros

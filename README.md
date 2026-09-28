@@ -9,7 +9,7 @@ A starter guide for beginners switching to Linux. [Buy me a tea or gluten-free s
 * [Balena Etcher](https://etcher.balena.io/){:target="_blank"} to burn the ISO to the USB stick so it is bootable. Use [Ventoy](https://www.ventoy.net/en/download.html){:target="_blank"} to try multiple distros (burn Ventoy once with Balena Etcher then drop ISOs into USB drive)
 * Back up all your computer's data to an external unencrypted drive before proceeding.
 * The keyboard key to repeatedly push to get into your computer’s Boot menu or BIOS to change the boot order.
-* Disable Secure Boot in BIOS
+* Disable BitLocker in Windows (decrypt your data) and Secure Boot in BIOS
 * Choose third-party media codecs when asked during installation (depends on distro chosen)
 
 ## Minimum hardware to run slimmer distros such as XFCE or Puppy Linux

@@ -5,7 +5,7 @@ A starter guide for beginners switching to Linux. [Buy me a tea or gluten-free s
 
 ## What you need
 * Empty 32 GB USB stick
-* Linux distro ISO
+* Linux distro ISO - Complete beginners to Linux who used Windows 10/11 should choose Linux Mint Cinnamon for its stability and ease of use.
 * [Balena Etcher](https://etcher.balena.io/){:target="_blank"} to burn the ISO to the USB stick so it is bootable. Use [Ventoy](https://www.ventoy.net/en/download.html){:target="_blank"} to try multiple distros (burn Ventoy once then drop ISOs into USB drive)
 * Back up all your computer's data to an external unencrypted drive before proceeding.
 * The keyboard key to repeatedly push to get into your computer’s Boot menu or BIOS to change the boot order.

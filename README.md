@@ -29,6 +29,8 @@ A starter guide for beginners switching to Linux. [Buy me a tea or gluten-free s
    3. [How I escaped Adobe's grip — and kept my creative workflow intact](https://bosmana63.substack.com/p/how-i-escaped-adobes-grip-and-kept){:target="_blank"}
    4. [How I replaced Microsoft Windows and Office in a single day](https://bosmana63.substack.com/p/how-i-replaced-microsoft-windows){:target="_blank"}
 2. [Paul](https://nodiceleftbehind.substack.com/p/one-year-on-linux-my-experiences){:target="_blank"} writes about his one-year experience of switching from Windows to Linux Mint Cinnamon.
+3. [Gareth Witty](https://myjourneyintomentalism.substack.com/p/zorin-os-a-personal-review){:target="_blank"} writes a personal review about his move from Windows to Zorin OS.
+   
 
 ## Coming from Microsoft Windows
 1. **[Linux Mint](https://linuxmint.com/){:target="_blank"}** - Looking for a stable desktop with support for NVIDIA drivers, a Windows 7 layout, gets out of your way, LibreOffice pre-installed, IRC chat for support, and customizable. May need an Ethernet cable to install Wi-Fi drivers. Terminal isn't required to use. Then try [Linux Mint Cinnamon](https://linuxmint.com/edition.php?id=326){:target="_blank"}. Here is the [Linux Mint Cinnamon Installation Guide](https://linuxmint-installation-guide.readthedocs.io/en/latest/){:target="_blank"}.

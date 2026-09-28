@@ -6,7 +6,7 @@ A starter guide for beginners switching to Linux. [Buy me a tea or gluten-free s
 ## What you need
 * Empty 32 GB USB stick
 * Linux distro ISO
-* [Balena Etcher](https://etcher.balena.io/){:target="_blank"} to burn the ISO to the USB stick so it is bootable.
+* [Balena Etcher](https://etcher.balena.io/){:target="_blank"} to burn the ISO to the USB stick so it is bootable. Use [Ventoy](https://www.ventoy.net/en/download.html){:target="_blank"} to try multiple distros (burn Ventoy once then drop ISOs into USB drive)
 * Back up all your computer's data to an external unencrypted drive before proceeding.
 * The keyboard key to repeatedly push to get into your computer’s Boot menu or BIOS to change the boot order.
 * Disable Secure Boot in BIOS
@@ -79,7 +79,7 @@ A starter guide for beginners switching to Linux. [Buy me a tea or gluten-free s
 10. [FreeShow - A ProPresenter alternative with CCLI support](https://freeshow.app/){:target="_blank"}
 
 ## Video editing software on Linux
-1. DaVinci Resolve or DaVinci Resolve Studio supports Rocky Linux but can run as a DEB package with required dedicated GPU not integrated (some codecs not supported may need script to run file conversion - [https://www.danieltufvesson.com/makeresolvedeb](https://www.danieltufvesson.com/makeresolvedeb){:target="_blank"}
+1. DaVinci Resolve or DaVinci Resolve Studio supports Rocky Linux but can run as a DEB package with required dedicated GPU not integrated (some codecs not supported may need script to run file conversion - [https://www.danieltufvesson.com/makeresolvedeb](https://www.danieltufvesson.com/makeresolvedeb){:target="_blank"} and another script that from NoSignal.uk that [works really well](https://github.com/28allday/DaVinci-Resolve-Linux-Mint){:target="_blank"} for installing it on Linux Mint Cinnamon. He has others on his website that support other Linux distros. 
 2. [Kdenlive](https://kdenlive.org/){:target="_blank"}
 3. [OpenShot](https://www.openshot.org/){:target="_blank"}
 4. [Shotcut](https://www.shotcut.org/){:target="_blank"}

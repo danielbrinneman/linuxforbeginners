@@ -83,10 +83,11 @@ A starter guide for beginners switching to Linux. [Buy me a tea or gluten-free s
 10. [FreeShow - A ProPresenter alternative with CCLI support](https://freeshow.app/){:target="_blank"}
 
 ## Video editing software on Linux
-1. DaVinci Resolve or DaVinci Resolve Studio supports Rocky Linux but can run as a DEB package with required dedicated GPU not integrated (some codecs not supported may need script to run file conversion - [https://www.danieltufvesson.com/makeresolvedeb](https://www.danieltufvesson.com/makeresolvedeb){:target="_blank"} and another script that from NoSignal.uk that [works really well](https://github.com/28allday/DaVinci-Resolve-Linux-Mint){:target="_blank"} for installing it on Linux Mint Cinnamon. He has others on his website that support other Linux distros. 
-2. [Kdenlive](https://kdenlive.org/){:target="_blank"}
-3. [OpenShot](https://www.openshot.org/){:target="_blank"}
-4. [Shotcut](https://www.shotcut.org/){:target="_blank"}
+1. DaVinci Resolve (Studio) supports Rocky Linux but can run as a DEB package with required dedicated GPU not integrated (some codecs not supported may need script to run file conversion - [https://www.danieltufvesson.com/makeresolvedeb](https://www.danieltufvesson.com/makeresolvedeb){:target="_blank"} and another script that from NoSignal.uk that [works really well](https://github.com/28allday/DaVinci-Resolve-Linux-Mint){:target="_blank"} for installing it on Linux Mint Cinnamon. He has others on his website that support other Linux distros.
+2. [Shutter Encoder](https://www.shutterencoder.com/){:target="_blank"} - Encode video for DaVinci Resolve (Studio) so it can be edited on Linux.
+3. [Kdenlive](https://kdenlive.org/){:target="_blank"}
+4. [OpenShot](https://www.openshot.org/){:target="_blank"}
+5. [Shotcut](https://www.shotcut.org/){:target="_blank"}
 
 ## Accounting software on Linux
 1. [GnuCash](https://www.gnucash.org/){:target="_blank"} (free) - GnuCash is personal and small-business financial-accounting software.

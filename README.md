@@ -71,7 +71,7 @@ A starter guide for beginners switching to Linux. [Buy me a tea or gluten-free s
 3. [WineHQ](https://www.winehq.org/){:target="_blank"}
 
 ## Creative software on Linux
-1. [Affinity by Canva](https://github.com/ryzendew/Linux-Affinity-Installer){:target="_blank"} (rumored coming soon to Linux)
+1. [Affinity by Canva](https://github.com/ryzendew/Linux-Affinity-Installer){:target="_blank"} (rumored coming soon to Linux) - Canva login fix https://youtu.be/w2Yh3EcKycc?si=Ni5iZ065mUdwnB-C
 2. [VivaDesigner](https://viva.systems/designer/){:target="_blank"}
 3. [Inkscape](https://inkscape.org/){:target="_blank"}
 4. [Scribus](https://www.scribus.net/){:target="_blank"}

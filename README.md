@@ -32,7 +32,6 @@ A starter guide for beginners switching to Linux. [Buy me a tea or gluten-free s
 3. [Gareth Witty](https://myjourneyintomentalism.substack.com/p/zorin-os-a-personal-review){:target="_blank"} writes a personal review about his move from Windows to Zorin OS.
 4. [Sash Mohapatra](https://riftdispatch.substack.com/p/48-hours-with-omarchy-my-first-linux){:target="_blank"} writes his about his 48 hours with Omarchy, his first linux experience.
    
-
 ## Coming from Microsoft Windows
 1. **[Linux Mint](https://linuxmint.com/){:target="_blank"}** - Looking for a stable desktop with support for NVIDIA drivers, a Windows 7 layout, gets out of your way, LibreOffice pre-installed, IRC chat for support, and customizable. May need an Ethernet cable to install Wi-Fi drivers. Terminal isn't required to use. Then try [Linux Mint Cinnamon](https://linuxmint.com/edition.php?id=326){:target="_blank"}. Here is the [Linux Mint Cinnamon Installation Guide](https://linuxmint-installation-guide.readthedocs.io/en/latest/){:target="_blank"}.
 2. **[Zorin OS](https://zorin.com/){:target="_blank"}** - Looking for a stable desktop with a Windows 10 layout, customizable, and providing alternative Linux programs when you try to install Windows applications. Use Zorin OS Core and install your own programs or support the developers of Zorin OS with Zorin OS Pro that comes with pre-installed programs, Brave by default, and built-in tech support. Here is the [Zorin OS Installation Guide](https://help.zorin.com/docs/getting-started/install-zorin-os/){:target="_blank"}.
@@ -83,6 +82,7 @@ A starter guide for beginners switching to Linux. [Buy me a tea or gluten-free s
 10. [FreeShow - A ProPresenter alternative with CCLI support](https://freeshow.app/){:target="_blank"}
 11. [ArtCraft - Adobe-similar open source apps written in Rust with AI for any OS](https://getartcraft.com/apps){:target="_blank"}
 12. [Animoia - Animoia is a FREE motion graphics and compositing app built around a familiar layer based workflow. Animoia gives you a powerful, flexible workspace for bringing ideas to life, with everything you need to design, animate, and composite in one place.](https://animoia.com/){:target="_blank"}
+13. [Natron - VFX](https://natrongithub.github.io/){:target="_blank"}
 
 ## Video editing software on Linux
 1. DaVinci Resolve (Studio) supports Rocky Linux but can run as a DEB package with required dedicated GPU not integrated (some codecs not supported may need script to run file conversion - [https://www.danieltufvesson.com/makeresolvedeb](https://www.danieltufvesson.com/makeresolvedeb){:target="_blank"} and another script that from NoSignal.uk that [works really well](https://github.com/28allday/DaVinci-Resolve-Linux-Mint){:target="_blank"} for installing it on Linux Mint Cinnamon. He has others on his website that support other Linux distros.

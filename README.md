@@ -80,7 +80,7 @@ A starter guide for beginners switching to Linux. [Buy me a tea or gluten-free s
 8. [RapidRAW](https://www.getrapidraw.com/){:target="_blank"}
 9. [Gimp](https://www.gimp.org/){:target="_blank"}
 10. [FreeShow - A ProPresenter alternative with CCLI support](https://freeshow.app/){:target="_blank"}
-11. [ArtCraft - Adobe-similar open source apps written in Rust with AI for any OS](https://getartcraft.com/apps){:target="_blank"}
+11. [ArtCraft - Adobe-similar open source apps written in Rust for any OS](https://getartcraft.com/apps){:target="_blank"}
 12. [CalibRaw - A free, open-source RAW photo editor for Linux, Android, Windows and macOS, with a complete photo-development workflow and AI tools that run locally.](https://github.com/Duecki1/CalibRaw){:target="_blank"}
 13. [Animoia - Animoia is a FREE motion graphics and compositing app built around a familiar layer based workflow. Animoia gives you a powerful, flexible workspace for bringing ideas to life, with everything you need to design, animate, and composite in one place.](https://animoia.com/){:target="_blank"}
 14. [Natron - VFX](https://natrongithub.github.io/){:target="_blank"}

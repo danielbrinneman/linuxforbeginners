@@ -63,6 +63,7 @@ A starter guide for beginners switching to Linux. [Buy me a tea or gluten-free s
 10. [PCSX2](https://flathub.org/en/apps/net.pcsx2.PCSX2){:target="_blank"} - PCSX2 is a free and open-source PlayStation 2 (PS2) emulator. Its purpose is to emulate the PS2's hardware, using a combination of MIPS CPU Interpreters, Recompilers, and a Virtual Machine which manages hardware states and PS2 system memory. This allows you to play PS2 games on your PC, with many additional features and benefits.
 11. [Prism Launcher](https://prismlauncher.org/){:target="_blank"} - Minecraft
 12. [Search Flathub for “game launcher”](https://flathub.org/en/apps/search?q=game%20launcher){:target="_blank"}
+13. [Epic Games Launcher](https://store.epicgames.com/news/epic-games-launcher-preview){:target="_blank"}
 
 ## Windows software on Linux
 1. [WinBoat](https://winboat.app/){:target="_blank"}
